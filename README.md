@@ -1,6 +1,6 @@
 # IBM Full Stack Software Developer – Course Repository
 
-This repository contains my projects, hands-on labs, and assignments completed as part of the **IBM Full Stack Software Developer  Certificate** program.
+This repository contains my projects, hands-on labs, and assignments completed as part of the **IBM Full Stack Software Developer Professional Certificate** program.
 
 ---
 
